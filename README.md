@@ -48,8 +48,8 @@ Open the displayed local URL in your browser.
 ```text
 LandslideRiskAI/
 ├── lanslide_risk.py
-├── model.joblib
-├── dataset 
+├── landslide_risk_model.joblib
+├── lanslide_dataset.csv  
 └── README.md
 ```
 
